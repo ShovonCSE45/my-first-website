@@ -83,3 +83,6 @@ section{
     border-image: linear-gradient( 56deg,blue, cyan);
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
